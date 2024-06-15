@@ -24,7 +24,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/Sureshbeniwa06/e-commerce-project.git
+git clone https://github.com/Sureshbeniwa06/E-commerce-.git
 Install Dependencies:
 
 bash
